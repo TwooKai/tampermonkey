@@ -1,0 +1,17 @@
+{
+	"name": "tampermonkey",
+	"version": "1.0.0",
+	"main": "derpy_linker.js",
+	"type": "module",
+	"scripts": {
+		"build": "node build.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"cross-env": "^10.0.0",
+		"esbuild": "^0.25.9"
+	}
+}
